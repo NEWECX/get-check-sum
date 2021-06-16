@@ -1,0 +1,27 @@
+{
+  "name": "@ritani/get-check-sum",
+  "version": "1.0.0",
+  "description": "get base 62 check sum of a string or object",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NEWECX/get-check-sum.git"
+  },
+  "keywords": [
+    "bas62",
+    "sha1",
+    "checksum"
+  ],
+  "author": "Sam Wen @ Ritani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NEWECX/get-check-sum/issues"
+  },
+  "homepage": "https://github.com/NEWECX/get-check-sum#readme",
+  "dependencies": {
+    "base-x": "^3.0.8"
+  }
+}
